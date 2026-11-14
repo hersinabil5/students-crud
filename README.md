@@ -4,7 +4,7 @@ A simple Python application that connects to a PostgreSQL database and lets user
 
 ## Demonstration Video
 
-**Video link:** [Add YouTube or Vimeo link here]
+**Video link:** (https://youtu.be/iX8gC1r8WqI)
 
 ## Project Structure
 
